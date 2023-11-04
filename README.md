@@ -52,7 +52,7 @@ Before running this application, you need to make sure you have Node.js installe
     {
     	"weather": {
     		"London": "20°C",
-    		"New York": "68°F",
+    		"New York": "68°C",
     		"Tokyo": "25°C"
     	}
     }
